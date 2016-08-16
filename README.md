@@ -1,0 +1,1 @@
+React way to do angular ng-src on images
